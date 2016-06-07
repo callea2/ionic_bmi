@@ -1,6 +1,6 @@
 # About this project
 
-This is my first attempt at creating a mobile app using [Ionic](http://ionicframework.com/)
+This is my first attempt at creating a mobile app using [Ionic](http://ionicframework.com/)  
 It's a simple app that lets a user enter their weight and height to get their BMI value
 
 ## How to test the app
